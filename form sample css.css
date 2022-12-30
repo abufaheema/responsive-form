@@ -1,0 +1,46 @@
+/* .carousel-item{
+    height: 100vh;
+    min-height: 300px;
+}
+
+.carousel-caption{
+    bottom: 220px;
+}
+
+.carousel-caption h5{
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 25px;
+}
+.carousel-caption p{
+    width: 60px;
+    margin: auto;
+    font-size: 18px;
+}
+
+.carousel-caption a{
+    text-transform: uppercase;
+    text-decoration: none;
+    background: darkorange;
+    padding: 10px 30px;
+    display: inline-block;
+    color: white;
+} */
+
+form{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    background-color: white;
+}
+body{
+    background-image: url(/image/bgimg.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    background-color: rgba(0, 0, 0, 0.1);
+    background-attachment: fixed;
+}
+
